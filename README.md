@@ -15,7 +15,7 @@ I enjoy developing software solutions, working with industrial communication
 protocols, and integrating hardware, databases, and monitoring systems.
 
 🔭 Currently working on **LSS Repository Platform**  
-💻 Developing with **Blazor, ASP.NET & C#**  
+💻 Developing with **C#, ASP.NET & Blazor**  
 ⚙️ Experienced in **SCADA, HMI, PLC & industrial automation**  
 ☀️ Experience with **Solar Farm monitoring systems**  
 📡 Working with **Modbus, MQTT, Node-RED & RTU communication**  
@@ -27,8 +27,8 @@ protocols, and integrating hardware, databases, and monitoring systems.
 
 ### 📂 LSS Repository Platform
 
-Currently developing an **LSS Repository Platform** for managing and
-organizing project-related information and documents.
+Currently developing an **LSS Repository Platform** using modern
+web development technologies.
 
 **Technologies:**
 
@@ -38,8 +38,8 @@ organizing project-related information and documents.
 - Database Management
 - Web Application Development
 
-My work involves developing the platform, implementing system functionality,
-and building the web interface using Blazor and ASP.NET.
+Working on the development of the platform, web interface, system
+functionality, and database-related components.
 
 ---
 
@@ -63,26 +63,37 @@ including:
 
 ## ☀️ Solar Farm & Energy Projects
 
-Experience with several renewable energy and industrial projects, including:
+### 🌦️ Weather Station – 30MW Solar Farm
 
-### Solar Farm HMI System
-- Developed PcVue HMI for solar farm monitoring and control
-- Configured PLCs and control logic
-- Conducted FAT and SAT
-- Performed on-site system testing and troubleshooting
-
-### Weather Station – 30MW Solar Farm
 - Configured Modbus RTU communication
 - Integrated temperature, humidity, wind speed, pyranometer and rain gauge
 - Configured Weidmüller UC20 PLC
 - Implemented real-time data logging
+- Supported stable data transmission to the central server
 
-### Smart Meter Billing System
-- Teltonika DLMS
-- MQTT
-- Node-RED
-- SQL database
-- Modbus integration
+### 🖥️ Solar Farm HMI System
+
+- Developed PcVue HMI for solar farm monitoring and control
+- Configured PLCs and control logic
+- Conducted FAT and SAT
+- Performed on-site system testing
+- Adjusted system parameters based on actual field conditions
+
+### ⚡ Smart Meter Billing System
+
+- Implemented smart meter data acquisition
+- Worked with Teltonika DLMS
+- Processed meter data using Node-RED and MQTT
+- Stored data in SQL database
+- Integrated MQTT data with Modbus output
+- Supported client-specific billing system development
+
+### ⚡ Energy Billing System – YTL
+
+- Collected meter readings through Modbus gateways
+- Transmitted data using Node-RED and MQTT
+- Stored meter data in SQL database
+- Collaborated with software developers on the billing platform
 
 ---
 
@@ -97,6 +108,8 @@ Experience with several renewable energy and industrial projects, including:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
@@ -113,48 +126,28 @@ Experience with several renewable energy and industrial projects, including:
 
 ## 🛠️ Tools & Technologies
 
+### Software & Development
+
+- Visual Studio Code
+- NetBeans
+- Eclipse
+- PgAdmin4
+- Git
+- GitHub
+- Draw.io
+- StarUML
+- Lucidchart
+
+### Industrial & Automation
+
 - PcVue
 - Node-RED
 - MQTT
 - Modbus RTU / TCP
 - Weidmüller UC20 / UR20
 - Moxa RS485
-- PostgreSQL
-- Microsoft SQL Server
-- MySQL
-- Git / GitHub
-- Visual Studio Code
-- NetBeans
-- Eclipse
-- PgAdmin
-- Draw.io
-- StarUML
-- Lucidchart
-
----
-
-## 📚 Projects
-
-### 🐟 FishNex — Fishing Competition Event Management System
-
-Final Year Project developed for managing fishing competition events.
-
-**Technologies:**
-- Java
-- PostgreSQL
-- Database Management
-- Web Development
-
-### 🏸 Badminton Court Booking System
-
-A two-way booking and management system developed for badminton court
-sessions.
-
-**Technologies:**
-- Java
-- PostgreSQL
-- Front-end & Back-end Development
-- Database Management
+- RTU Systems
+- SCADA / HMI
 
 ---
 
@@ -163,39 +156,154 @@ sessions.
 ### System Engineer
 **SAE Malaysia Sdn. Bhd.**
 
+**28 February 2025 – Present**
+
 Working on software development, SCADA systems, industrial automation,
 system integration, and renewable energy projects.
 
-Main areas:
+#### Main Responsibilities & Experience
 
-- SCADA & HMI development
-- PLC integration
-- Database integration
+- SCADA and HMI development
+- PLC and RTU integration
 - Industrial communication
-- Solar Farm systems
+- Database integration
+- Solar Farm monitoring systems
 - Smart Meter systems
 - Software development
 - System testing and commissioning
+- FAT and SAT
+- On-site troubleshooting
+
+---
+
+## 🚀 Projects
+
+### 📂 LSS Repository Platform
+
+**Current Project**
+
+A web-based repository platform currently under development.
+
+**Technologies:**
+
+`C#` `ASP.NET` `Blazor`
+
+---
+
+### 🐟 FishNex — Fishing Competition Event Management System
+
+**Final Year Project**
+
+Developed a two-way system for managing fishing competitions.
+
+**Technologies:**
+
+`Java` `PostgreSQL` `Database Management`
+
+Responsibilities included:
+
+- Front-end development
+- Back-end development
+- System documentation
+- Database management
+- System design
+
+---
+
+### 🏸 Badminton Court Booking System
+
+Developed a two-way booking and management system for badminton court
+sessions.
+
+**Technologies:**
+
+`Java` `PostgreSQL` `Front-end` `Back-end`
+
+Responsibilities included:
+
+- Front-end development
+- Back-end development
+- Database management
+- System documentation
+
+---
+
+## 🏭 SCADA & Automation Experience
+
+### 🖥️ NUR Automation Transfer System
+
+- Designed and configured PcVue HMI
+- Integrated HMI with SQL database
+- Configured Modbus TCP communication
+- Conducted FAT
+- Supported system monitoring and troubleshooting
+
+### ⚡ NUR Solar Farm
+
+- Developed PcVue HMI
+- Configured PLCs
+- Tested control logic
+- Conducted FAT and SAT
+- Performed on-site system parameter adjustments
+
+### 🔧 Engine Training System – Politeknik Bagan Datok
+
+- Designed PcVue HMI
+- Configured UC20 PLC
+- Configured Modbus TCP communication
+- Developed operational logic
+- Implemented engine compartment monitoring and control
+
+### ⚡ 33kV Training System – ADTEC
+
+- Designed PcVue HMI interfaces
+- Supported high-voltage training system monitoring
+- Configured system monitoring and control functions
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aimnhziq&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aimnhziq&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimnhziq&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimnhziq&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
+
+---
+
+## 📚 Certifications & Training
+
+- NIOSH Safety Passport Course
+- CIDB Green Card
+- OGSP – Oil & Gas Safety Passport
+
+---
+
+## 🌐 Languages
+
+- 🇲🇾 Malay — Good speaking, writing and reading
+- 🇬🇧 English — Good speaking, writing and reading
+- 🇨🇳 Mandarin — Low proficiency
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 **Email:** aimn.hziq01@gmail.com
+<p align="left">
+  <a href="mailto:aimn.hziq01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-🔗 **GitHub:** [Aimnhziq](https://github.com/Aimnhziq)
+  <a href="https://github.com/Aimnhziq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+📧 **Email:** aimn.hziq01@gmail.com  
+💻 **GitHub:** [Aimnhziq](https://github.com/Aimnhziq)
 
 ---
 
