@@ -1,67 +1,202 @@
-<h1 align="center" style="color:#00FF7F;">👋 Hi, I'm Muhammad Aiman Haziq</h1>
-<h3 align="center" style="color:#ADFF2F;">📍 Ampang, Selangor | 🎓 Bachelor of Information Systems Engineering Student | 💻 Passionate about: Frontend and Backend Development</h3>
+# 👋 Hi, I'm Muhammad Aiman Haziq
+
+📍 Selangor, Malaysia  
+💼 System Engineer | Software Development | SCADA & Automation  
+🎓 Bachelor of Information System Engineering — UiTM
+
+---
+
+## 👨‍💻 About Me
+
+I'm a System Engineer with experience in **software development, industrial
+automation, SCADA systems, database management, and system integration**.
+
+I enjoy developing software solutions, working with industrial communication
+protocols, and integrating hardware, databases, and monitoring systems.
+
+🔭 Currently working on **LSS Repository Platform**  
+💻 Developing with **Blazor, ASP.NET & C#**  
+⚙️ Experienced in **SCADA, HMI, PLC & industrial automation**  
+☀️ Experience with **Solar Farm monitoring systems**  
+📡 Working with **Modbus, MQTT, Node-RED & RTU communication**  
+🗄️ Experienced with **PostgreSQL, MySQL & Microsoft SQL Server**
+
+---
+
+## 🚀 Current Project
+
+### 📂 LSS Repository Platform
+
+Currently developing an **LSS Repository Platform** for managing and
+organizing project-related information and documents.
+
+**Technologies:**
+
+- C#
+- ASP.NET
+- Blazor
+- Database Management
+- Web Application Development
+
+My work involves developing the platform, implementing system functionality,
+and building the web interface using Blazor and ASP.NET.
+
+---
+
+## 🏭 Industrial Automation & SCADA
+
+I have experience working with industrial automation and SCADA systems,
+including:
+
+- PcVue SCADA / HMI
+- Weidmüller UC20 & UR20 PLC
+- Modbus RTU / TCP
+- Moxa RS485
+- MQTT
+- Node-RED
+- IEC 61850
+- RTU integration
+- SQL database integration
+- FAT & SAT testing
+
+---
+
+## ☀️ Solar Farm & Energy Projects
+
+Experience with several renewable energy and industrial projects, including:
+
+### Solar Farm HMI System
+- Developed PcVue HMI for solar farm monitoring and control
+- Configured PLCs and control logic
+- Conducted FAT and SAT
+- Performed on-site system testing and troubleshooting
+
+### Weather Station – 30MW Solar Farm
+- Configured Modbus RTU communication
+- Integrated temperature, humidity, wind speed, pyranometer and rain gauge
+- Configured Weidmüller UC20 PLC
+- Implemented real-time data logging
+
+### Smart Meter Billing System
+- Teltonika DLMS
+- MQTT
+- Node-RED
+- SQL database
+- Modbus integration
+
+---
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+- PcVue
+- Node-RED
+- MQTT
+- Modbus RTU / TCP
+- Weidmüller UC20 / UR20
+- Moxa RS485
+- PostgreSQL
+- Microsoft SQL Server
+- MySQL
+- Git / GitHub
+- Visual Studio Code
+- NetBeans
+- Eclipse
+- PgAdmin
+- Draw.io
+- StarUML
+- Lucidchart
+
+---
+
+## 📚 Projects
+
+### 🐟 FishNex — Fishing Competition Event Management System
+
+Final Year Project developed for managing fishing competition events.
+
+**Technologies:**
+- Java
+- PostgreSQL
+- Database Management
+- Web Development
+
+### 🏸 Badminton Court Booking System
+
+A two-way booking and management system developed for badminton court
+sessions.
+
+**Technologies:**
+- Java
+- PostgreSQL
+- Front-end & Back-end Development
+- Database Management
+
+---
+
+## 💼 Work Experience
+
+### System Engineer
+**SAE Malaysia Sdn. Bhd.**
+
+Working on software development, SCADA systems, industrial automation,
+system integration, and renewable energy projects.
+
+Main areas:
+
+- SCADA & HMI development
+- PLC integration
+- Database integration
+- Industrial communication
+- Solar Farm systems
+- Smart Meter systems
+- Software development
+- System testing and commissioning
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aimnhziq&label=Profile%20views&color=00FF7F&style=flat" alt="aimnhziq" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aimnhziq&show_icons=true&theme=tokyonight" />
 </p>
 
-- 🔭 I’m currently working on **FishNex: Fishing Competition Event Management System**
-
-- 🌱 I’m currently learning **PHP**
-
-- 👯 I have collaborated on **Badminton Court Booking System**
-
-- 📫 How to reach me: **aimn.hziq01@gmail.com**
-
-<h3 align="left" style="color:#00FF7F;">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad aiman haziq bin md rosdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad aiman haziq bin md rosdi" height="30" width="40" /></a>
-<a href="https://fb.com/aimn hziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aimn hziq" height="30" width="40" /></a>
-<a href="https://instagram.com/aimn.hziq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aimn.hziq" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimnhziq&layout=compact&theme=tokyonight" />
 </p>
 
-<h3 align="left" style="color:#00FF7F;">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aimnhziq&show_icons=true&locale=en&layout=compact&theme=dark" alt="aimnhziq" /></p>
+## 🤝 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimnhziq&show_icons=true&locale=en&theme=dark" alt="aimnhziq" /></p>
+📧 **Email:** aimn.hziq01@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimnhziq&theme=dark" alt="aimnhziq" /></p>
+🔗 **GitHub:** [Aimnhziq](https://github.com/Aimnhziq)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
