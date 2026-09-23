@@ -262,15 +262,18 @@ Responsibilities included:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aimnhziq&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
+I use GitHub to build and maintain projects related to:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimnhziq&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
+- 💻 Software Development
+- 🌐 Web Application Development
+- 🗄️ Database Systems
+- 🏭 SCADA & Industrial Automation
+- ☀️ Solar Farm Monitoring
+- ⚙️ System Integration
+
+Check out my repositories below to see my projects and development work.
 
 ---
 
